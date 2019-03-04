@@ -1,0 +1,9 @@
+.idea
+/nbproject
+config.core.php
+/core/config/
+/core/model/
+/core/packages/
+/core/xpdo/
+/ht.access
+/index.php

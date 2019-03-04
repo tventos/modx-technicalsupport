@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="technicalsupport" baseClass="xPDOObject" platform="mysql" defaultEngine="InnoDB" phpdoc-package="technicalsupport"
+       version="1.1">
+
+    <object class="TechnicalsupportHistory" table="technicalsupport_history" extends="xPDOSimpleObject">
+        <field key="subject" dbtype="varchar" precision="100" phptype="string" null="false" default=""/>
+        <field key="message" dbtype="text" phptype="string" null="true" default=""/>
+        <field key="create_at" dbtype="varchar" precision="100" phptype="string" null="false" default=""/>
+    </object>
+
+</model>

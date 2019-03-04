@@ -1,0 +1,9 @@
+Changelog for technicalSupport.
+
+1.0.1-pl
+==============
+- [Fix] Now the event returns properties subject and message
+
+1.0.0-pl
+==============
+- First
